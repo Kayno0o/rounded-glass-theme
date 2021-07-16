@@ -6,12 +6,15 @@
 
 
 
-![Screenshot 2021-07-16 141538](https://user-images.githubusercontent.com/81578448/125991997-eb07a410-9455-497c-90a3-54388b1b78d7.png)
+![Screenshot 2021-07-16 141522](https://user-images.githubusercontent.com/81578448/125992602-60f3b131-e40a-49ac-94b6-3fcb3c3383d3.png)
 
 
 
 
-![Screenshot 2021-07-16 141611](https://user-images.githubusercontent.com/81578448/125992005-53e375a5-04c8-4543-a858-3902eb75ca00.png)
+
+
+![Screenshot 2021-07-16 142502](https://user-images.githubusercontent.com/81578448/125992567-e43918b7-92a4-486f-aba1-4879ef228fff.png)
+
 
 
 
