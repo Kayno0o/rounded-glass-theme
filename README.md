@@ -1,4 +1,4 @@
-# rounded-glass-theme
+# rounded glass theme
 ------------------------
 # Screen Shots
 ![Screenshot 2021-07-16 141522](https://user-images.githubusercontent.com/81578448/125991932-c299ba95-ddc8-4a96-8500-9d407c496291.png)
