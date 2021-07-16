@@ -1,5 +1,8 @@
 # rounded glass theme
 
+
+------------------------
+
 # Description
 
 Rounded glass theme with a lot of customization.
@@ -9,7 +12,11 @@ Venti and I made this theme based on my first theme because we wanted something 
 To download use the theme, you can either:
 - download the [local file](https://github.com/Kayno0o/rounded-glass-theme/blob/main/local_rounded.theme.css) which will work with the [remote file](https://github.com/Kayno0o/rounded-glass-theme/blob/main/remote_rounded.theme.css) from the github, so your theme will get updated when we update it.
 - download the [full source](https://github.com/Kayno0o/rounded-glass-theme/blob/main/source_rounded.theme.css) file
+
+
 ------------------------
+
+
 # Screen Shots
 ![Screenshot 2021-07-16 141522](https://user-images.githubusercontent.com/81578448/125991932-c299ba95-ddc8-4a96-8500-9d407c496291.png)
 
