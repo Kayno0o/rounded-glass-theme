@@ -1355,3 +1355,23 @@ pre .hljs, .container-1D34oG {
 .container-3auIfb[style*="67"], .container-3auIfb[style*="68"], .container-3auIfb[style*="69"], .container-3auIfb[style*="70"], .container-3auIfb[style*="71"], .container-3auIfb[style*="72"], .container-3auIfb[style*="73"], .container-3auIfb[style*="74"], .container-3auIfb[style*="75"], .container-3auIfb[style*="76"], .container-3auIfb[style*="77"], .container-3auIfb[style*="78"], .container-3auIfb[style*="79"], .container-3auIfb[style*="80"], .container-3auIfb[style*="81"], .container-3auIfb[style*="82"], .container-3auIfb[style*="83"], .container-3auIfb[style*="84"], .container-3auIfb[style*="85"], .container-3auIfb[style*="86"], .container-3auIfb[style*="87"], .container-3auIfb[style*="88"], .container-3auIfb[style*="89"], .container-3auIfb[style*="90"], .container-3auIfb[style*="91"], .container-3auIfb[style*="92"], .container-3auIfb[style*="93"], .container-3auIfb[style*="94"], .container-3auIfb[style*="95"], .container-3auIfb[style*="96"], .container-3auIfb[style*="97"], .container-3auIfb[style*="98"], .container-3auIfb[style*="99"], .container-3auIfb[style*="100"], .container-3auIfb[style*="101"], .container-3auIfb[style*="102"], .container-3auIfb[style*="103"], .container-3auIfb[style*="104"], .container-3auIfb[style*="105"], .container-3auIfb[style*="106"], .container-3auIfb[style="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"] {
     background: rgba(81, 255, 0, 0.815) !important;
   }
+
+.emojiButtonNormal-TdumYh, .emojiButtonHovered-1rWNal {
+  padding-left: 2px !important;
+}
+
+.input-1GLP_D {
+  margin-left: 40px;
+}
+
+.buttonContainer-28fw2U {
+    padding-left: 5px !important;
+}
+
+.buttonContainer-28fw2U {
+    padding-right: 5px !important;
+}
+
+.formGroup-2hEDrJ {
+    padding-right: 15px !important;
+}
