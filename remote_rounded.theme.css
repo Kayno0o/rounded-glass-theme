@@ -1356,22 +1356,32 @@ pre .hljs, .container-1D34oG {
     background: rgba(81, 255, 0, 0.815) !important;
   }
 
-.emojiButtonNormal-TdumYh, .emojiButtonHovered-1rWNal {
-  padding-left: 2px !important;
-}
+ .emojiButtonNormal-TdumYh, .emojiButtonHovered-1rWNal {
+    padding-left: 3px !important;
+  }
+  
+  .input-1GLP_D {
+    margin-left: 40px;
+  }
+  
+  .buttonContainer-28fw2U {
+      padding-left: 0px !important;
+  }
+  
+  .buttonContainer-28fw2U {
+      padding-right: 2px !important;
+  }
+  
+  .formGroup-2hEDrJ {
+      padding-right: 15px !important;
+  }
 
-.input-1GLP_D {
-  margin-left: 40px;
-}
+ 
 
-.buttonContainer-28fw2U {
-    padding-left: 5px !important;
-}
+  .buttonContainer-28fw2U {
+      padding: 1 !important
+  }
 
-.buttonContainer-28fw2U {
-    padding-right: 5px !important;
-}
-
-.formGroup-2hEDrJ {
-    padding-right: 15px !important;
-}
+  .bodyInnerWrapper-26fQXj, .fieldList-21DyL8 {
+      background-color: var(--light-opacity) !important;
+  }
